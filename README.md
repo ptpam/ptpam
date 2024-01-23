@@ -1,16 +1,24 @@
-### Hi there 👋
+### Greetings 👋
 
-<!--
-**ptpam/ptpam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Melike, a computer engineer from Seoul, passionate about applying machine learning to real-world challenges!
 
-Here are some ideas to get you started:
+#### 💼 Professional Journey
+* AI Researcher, DeltaX (2022-Present)
+* Udacity Mentor (2022-Present)
+* Computer Vision Engineer, WAVE Lifestyle Tech
+* Graduate Student, Control and Optimization Research Lab, SNU 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎓 Educational Background
+* M.S in Electrical and Computer Engineering, Seoul National University
+* B.S in Computer Engineering, Bogazici University
+
+#### 🛠️ Technical Skills
+* ***Languages & Frameworks*** : Python, Go, MATLAB, C++, Jupyter, Matplotlib, Numpy, Scikit-learn, Gym, Tensorflow, Pytorch, Docker
+* ***Soft Skills*** : Problem-Solving, Collaboration, Effective Communication
+
+#### 📫 Connect with Me
+Feel free to reach out for collaborations or just a chat about tech!
+📧 [Email](ermismelike@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/ermismel/)
+
+
