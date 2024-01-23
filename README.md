@@ -18,7 +18,7 @@ I'm Melike, a computer engineer from Seoul, passionate about applying machine le
 
 #### 📫 Connect with Me
 Feel free to reach out for collaborations or just a chat about tech!
-- 📧 [Email](ermismelike@gmail.com)
+- 📧 Email: ermismelike@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ermismel/)
 
 
