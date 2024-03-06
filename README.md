@@ -3,8 +3,8 @@
 I'm Melike, a computer engineer from Seoul, passionate about applying machine learning to real-world challenges!
 
 #### 💼 Professional Journey
-* AI Researcher, DeltaX (2022-Present)
 * Udacity Mentor (2022-Present)
+* AI Researcher, DeltaX 
 * Computer Vision Engineer, WAVE Lifestyle Tech
 * Graduate Student, Control and Optimization Research Lab, SNU 
 
